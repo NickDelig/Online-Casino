@@ -1,0 +1,10 @@
+{
+  "GameName": "BookOfJava",
+  "ProviderName": "NetEnt",
+  "Stars": 4,
+  "NoOfVotes": 120,
+  "MinBet": 0.1,
+  "MaxBet": 10.0,
+  "RiskLevel": "medium",
+  "HashKey": "secret_key_123"
+}
